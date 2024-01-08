@@ -17,9 +17,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoWSilva&layout=compact@langs_count=16&theme=merko"/>
    </div>
   
-  <div style=display: "inline_block"><br>
-    <img align="center" alt="Edu-c#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  </div>
+  
   
   ##
             
