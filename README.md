@@ -10,8 +10,20 @@
   <img align="center" alt="Edu-c#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   
   ##
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?EduardoWSilva=anuraghazra&theme=dark&show_icons=true)
+  <a href="https://github.com/EduardoWSilva/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoWSilva&show_icons=true&theme=merko" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoWSilva&show_icons=true&theme=merko&layout=compact&langs_count=8&card_width=320" />
+  </a>
+
+
+
+
+
+
+
+
   
+
   
-  
-              
